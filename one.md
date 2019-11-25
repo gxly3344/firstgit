@@ -1,1 +1,1 @@
-Git is the distributed version control
+Git is the distributed version control system
